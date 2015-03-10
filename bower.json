@@ -1,7 +1,8 @@
 {
   "name": "timecard",
   "version": "0.0.0",
-  "dependencies": {
-    "closure-compiler": "http://dl.google.com/closure-compiler/compiler-latest.zip"
+  "devDependencies": {
+    "closure-compiler": "http://dl.google.com/closure-compiler/compiler-latest.zip",
+    "closure-library": "https://github.com/google/closure-library.git"
   }
 }

@@ -1,0 +1,10 @@
+{
+  "name": "timecard",
+  "version": "0.0.0",
+  "description": "timecard solution for vs",
+  "devDependencies": {
+    "del": "^1.1.1",
+    "gulp": "^3.8.11",
+    "gulp-closure-compiler": "^0.2.16"
+  }
+}
